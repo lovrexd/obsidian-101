@@ -1,3 +1,21 @@
+- [1. Teorijski okvir osobnog upravljanja znanjem](#1-teorijski-okvir-osobnog-upravljanja-znanjem)
+- [2. Faze upravljanja znanjem: unos, organizacija, povezivanje, korištenje](#2-faze-upravljanja-znanjem-unos-organizacija-povezivanje-korištenje)
+	- [2.1.  Unos (prikupljanje informacija)](#21--unos-prikupljanje-informacija)
+	- [2.2. Organizacija (strukturiranje i kontekstualizacija) ](#22-organizacija-strukturiranje-i-kontekstualizacija)
+	- [2.3. Povezivanje (umrežavanje znanja)](#23-povezivanje-umrežavanje-znanja)
+	- [2.4. Korištenje (primjena znanja)](#24-korištenje-primjena-znanja)
+- [3. Stilovi upravljanja sustavom i vođenja bilješki i upravljanja sustavom: “arhitekti” vs “vrtlari”](#3-stilovi-upravljanja-sustavom-i-vođenja-bilješki-i-upravljanja-sustavom-arhitekti-vs-vrtlari)
+- [4. Uvod u Obsidian – prvi koraci](#4-uvod-u-obsidian--prvi-koraci)
+- [5. Markdown - perolaki označiteljski jezik za vođenje bilježaka](#5-markdown---perolaki-označiteljski-jezik-za-vođenje-bilježaka)
+- [6. Struktura vaulta i organizacija bilješki u Obsidianu](#6-struktura-vaulta-i-organizacija-bilješki-u-obsidianu)
+- [7. Povezivanje bilješki: linkovi, reference i graf](#7-povezivanje-bilješki-linkovi-reference-i-graf)
+- [8. Korištenje spremišta: pretraživanje, filtriranje i izvlačenje (dodane) vrijednosti](#8-korištenje-spremišta-pretraživanje-filtriranje-i-izvlačenje-dodane-vrijednosti)
+- [9. Predlošci (eng. Templates) – konzistentnost i veća učinkovitost](#9-predlošci-eng-templates--konzistentnost-i-veća-učinkovitost)
+- [10. Plugins - funkcionalni dodaci sustavu (npr. Tasks, Calendar, Dataview)](#10-plugins---funkcionalni-dodaci-sustavu-npr-tasks-calendar-dataview)
+- [11. Praktična vježba: izrada bilješke za pregled literature](#11-praktična-vježba-izrada-bilješke-za-pregled-literature)
+- [12. Ostali primjeri i vježbe za samostalno istraživanje](#12-ostali-primjeri-i-vježbe-za-samostalno-istraživanje)
+- [13. Zaključak i idući koraci](#13-zaključak-i-idući-koraci)
+
 ## 1. Teorijski okvir osobnog upravljanja znanjem
 **Eksternalizacija znanja:** Prema Nonakinom SECI modelu, _eksternalizacija_ je proces pretvaranja **tacitnog znanja** (unutarnjeg, neizrečenog) u **eksplicitno znanje** zapisivanjem ili izražavanjem ideja​. Drugim riječima, bilježenjem svojih misli i informacija oslobađamo prostor u svom umu i činimo znanje dostupnim za kasnije dijeljenje i korištenje. Ova praksa izgradnje vanjske memorije često se naziva izgradnjom _proširenog uma_ (eng. *second brain*).
 
